@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-My attempt to create a simple Rock, Paper, Scissors game.
+Creating a simple Rock, Paper, Scissors game using a tutorial.
 
 # Technologies Used
 * Javascript
