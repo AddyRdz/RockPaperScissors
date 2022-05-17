@@ -5,16 +5,19 @@ body{
 
 #Rock{
     color: red;
+    margin: 5px;
     
 }
 
 #Paper{
     color: red;
+    margin: 5px;
     
 }
 
 #Scissors{
     color:red;
+    margin: 5px;
 }
 
 h2{
@@ -25,5 +28,11 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
+    
+}
+
+h1{
+    text-align: center;
+    font-weight: 900;
 }
 
