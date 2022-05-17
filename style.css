@@ -9,8 +9,15 @@ body{
 
 #Paper{
     color: red;
+    
 }
 
 #Scissors{
     color:red;
 }
+
+h2{
+    text-align: center;
+}
+
+
