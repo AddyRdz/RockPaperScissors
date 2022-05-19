@@ -36,16 +36,16 @@ function getWinner(){
         result = "You Win!"
     }
     if (computerChoice === 'Rock' && userChoice === 'Scissors'){
-        result = "You Lose!"
+        result = "Computer wins, you Lose!"
     }
     if (computerChoice === 'Paper' && userChoice === 'Rock'){
-        result = "You Lose!"
+        result = "Computer wins, you Lose!"
     }
     if (computerChoice === 'Paper' && userChoice === 'Scissors'){
         result = "You Win!"
     }
     if (computerChoice === 'Scissors' && userChoice === 'Paper'){
-        result = "You Lose!"
+        result = "Computer wins, you Lose!"
     }
     if (computerChoice === 'Scissors' && userChoice === 'Rock'){
         result = "You Win!"
