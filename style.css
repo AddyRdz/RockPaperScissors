@@ -26,6 +26,11 @@ body{
     margin: 5px;
 }
 
+#Reset{
+    color:red;
+    margin: 5px;
+}
+
 h2{
     text-align: center;
 }
